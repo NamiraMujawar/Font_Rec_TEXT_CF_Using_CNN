@@ -6,8 +6,20 @@ Font recognition, also known as text image classification, is a technology that 
 
 ![fontrec](https://github.com/NamiraMujawar/Font_Rec_TEXT_CF_Using_CNN/assets/120715329/5e1a6b5b-bd59-4888-9c30-736751323fd5)
 
+** About CNN Model: **
+* ***Text Image Classification Using CNN:***
+* Successfully implemented a Convolutional Neural Network (CNN) for text image classification.
+* Achieved a commendable test accuracy of 85.37%.
+* ***Performance Highlights:***
+* Attained the highest test accuracy of 98.57%, showcasing the model's capability.
+* Demonstrated strong performance with a train accuracy of 99.24%.
+* ***Prediction Success:***
+* Successfully performed predictions for an image from the 'Calvin' class.
+This demonstrates the model's ability to generalize and make accurate predictions on new data.
+
 # **How CNN Model work?!**
-![ff](https://github.com/NamiraMujawar/Font_Rec_TEXT_CF_Using_CNN/assets/120715329/cea9b893-6f0d-4754-bfc1-b9718170ee0b)
+![ff](https://github.com/NamiraMujawar/Font_Rec_TEXT_CF_Using_CNN/assets/120715329/603418a2-dfbe-4e57-b6f0-35c41237a096)
+
 
 
 **Importance of Font Recognition:**
@@ -32,3 +44,17 @@ Font recognition, also known as text image classification, is a technology that 
   * Text-based image classification enables text-based search and retrieval functionalities, allowing users to find images based on textual descriptions or keywords.
 
 Font recognition is a technology that has revolutionized the way we interact with text in images, opening up new possibilities in digitization, design, security, and content management.
+
+
+
+# **Conclusion:**
+
+In conclusion, the Convolutional Neural Network (CNN) model developed for text image classification has shown promising results. With a test accuracy of 85.56% and a highest achieved test accuracy of 99.57%, the model demonstrates its effectiveness in accurately classifying text images. The high train accuracy of 99.24% indicates that the model has learned the features of the dataset well and can generalize to new data. Additionally, the successful prediction for an image from the 'Calvin' class further validates the model's ability to make accurate predictions.
+
+Overall, this CNN model serves as a strong foundation for text image classification tasks, showcasing its potential for various applications requiring accurate classification of text within images. Further optimizations and enhancements could potentially improve the model's performance even further, making it a valuable tool in the field of image classification.
+
+
+
+
+
+
