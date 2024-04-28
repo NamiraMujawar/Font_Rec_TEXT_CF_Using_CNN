@@ -6,8 +6,9 @@ Font recognition, also known as text image classification, is a technology that 
 
 ![fontrec](https://github.com/NamiraMujawar/Font_Rec_TEXT_CF_Using_CNN/assets/120715329/5e1a6b5b-bd59-4888-9c30-736751323fd5)
 
-# **Approch to Develop Model:**
-![Screenshot (98)](https://github.com/NamiraMujawar/YES_BANK_STOCK_CLOSING_PRICE_PREDICTION/assets/120715329/55428b32-d75b-4482-b88a-0146b08346db)
+# **How CNN Model work?!**
+![ff](https://github.com/NamiraMujawar/Font_Rec_TEXT_CF_Using_CNN/assets/120715329/cea9b893-6f0d-4754-bfc1-b9718170ee0b)
+
 
 **Importance of Font Recognition:**
 
