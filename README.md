@@ -4,6 +4,9 @@
 
 Font recognition, also known as text image classification, is a technology that enables the identification and classification of text within images. This technology has become increasingly important in various applications, ranging from document analysis and brand identification to security and design. Font recognition plays a crucial role in Optical Character Recognition (OCR) systems, which convert scanned documents into editable text, as well as in identifying fonts for design and branding purposes. Understanding the importance of font recognition can help us appreciate its wide-ranging impact on different aspects of our lives and industries.
 
+![fontrec](https://github.com/NamiraMujawar/Font_Rec_TEXT_CF_Using_CNN/assets/120715329/5e1a6b5b-bd59-4888-9c30-736751323fd5)
+
+
 **Importance of Font Recognition:**
 
 * ***Optical Character Recognition (OCR):***
