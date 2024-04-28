@@ -52,7 +52,7 @@ Font recognition is a technology that has revolutionized the way we interact wit
 
 # **Conclusion:**
 
-In conclusion, the Convolutional Neural Network (CNN) model developed for text image classification has shown promising results. With a test accuracy of 85.56% and a highest achieved test accuracy of 99.57%, the model demonstrates its effectiveness in accurately classifying text images. The high train accuracy of 99.24% indicates that the model has learned the features of the dataset well and can generalize to new data. Additionally, the successful prediction for an image from the 'Calvin' class further validates the model's ability to make accurate predictions.
+In conclusion, the Convolutional Neural Network (CNN) model developed for text image classification has shown promising results. With a test accuracy of 85.56% and a highest achieved test accuracy of 98.57%, the model demonstrates its effectiveness in accurately classifying text images. The high train accuracy of 99.24% indicates that the model has learned the features of the dataset well and can generalize to new data. Additionally, the successful prediction for an image from the 'Calvin' class further validates the model's ability to make accurate predictions.
 
 Overall, this CNN model serves as a strong foundation for text image classification tasks, showcasing its potential for various applications requiring accurate classification of text within images. Further optimizations and enhancements could potentially improve the model's performance even further, making it a valuable tool in the field of image classification.
 
